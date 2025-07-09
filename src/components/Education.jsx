@@ -16,7 +16,7 @@ export default function Education() {
         logo={logo}
         title={"University of Cebu - Lapu-lapu and Mandaue"}
         subtitle={"Senior High School - TVL ICT Strand"}
-        date={"2022-2023"}
+        date={"2021-2023"}
       />
     </div>
   );
