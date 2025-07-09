@@ -10,7 +10,7 @@ export default function Education() {
         logo={logo}
         title={"University of Cebu - Lapu-lapu and Mandaue"}
         subtitle={"Bachelor's Degree In Information Technology"}
-        date={"2023-2026"}
+        date={"2023-2027"}
       />
       <InfoCard
         logo={logo}

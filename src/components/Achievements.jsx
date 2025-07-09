@@ -10,7 +10,7 @@ export default function Achievements() {
         logo={
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpf5Cvqe411yzPxCF_THTzq8ihLljF1d27A&s"
         }
-        title={"Computer Quiz Bowl - College Division"}
+        title={"CESAFI: Computer Quiz Bowl (College Division)"}
         subtitle={"2nd Placer"}
         date={"March 2025"}
       />
@@ -18,13 +18,13 @@ export default function Achievements() {
         logo={
           "https://scontent.fceb2-2.fna.fbcdn.net/v/t39.30808-6/492006679_122176782752321781_5932475837739359282_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEASfqf6VYzIElJzNQBeoapdS56iCmKiDx1LnqIKYqIPGVdV_5wuqo5JjiJ74ZelvVukGrODXJEyGalVlo4C_Do&_nc_ohc=TWGcMWhpj4gQ7kNvwF9fdql&_nc_oc=AdmguuM0nNUsZ9enp4NjwbE59gj3BZsAdwCPB8vI0rWxIJ_-DnRrdjswo4wadDfM4ZM&_nc_zt=23&_nc_ht=scontent.fceb2-2.fna&_nc_gid=u1Rkjcd2TkXlaXz8q8hemg&oh=00_AfQISM54cZhJSku-Q2Q29cdcR0X6chX4uy7rrbESbyPTrg&oe=6873A504"
         }
-        title="JAVA Programming Competition"
+        title="11th ICT Congress: JAVA Programming Competition"
         subtitle={"1st Placer"}
         date={"April 2025"}
       />
       <InfoCard
         logo={logo}
-        title={"JAVA Programming Competition ( College Days 2025 )"}
+        title={"College Days: JAVA Programming Competition"}
         subtitle={"Champion"}
         date={"Feb 2025"}
       />

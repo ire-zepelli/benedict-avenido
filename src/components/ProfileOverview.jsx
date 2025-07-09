@@ -1,5 +1,4 @@
 import React from "react";
-import InfoCard from "./InfoCard";
 import Education from "./Education";
 import Achievements from "./Achievements";
 import SkillList from "./SkillList";
