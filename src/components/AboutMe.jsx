@@ -18,9 +18,11 @@ export default function AboutMe() {
       <div>
         <h2 className="font-semibold mb-2 text-2xl">About</h2>
         <p className="text-gray-700">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt voluptas
-          reprehenderit iste fugiat placeat modi maiores eius similique nulla,
-          sequi nemo veniam ut quos ea, libero tempore tenetur numquam possimus?
+          I’m a passionate and detail-oriented web developer currently pursuing
+          a Bachelor’s Degree in Information Technology at the University of
+          Cebu – Lapu-Lapu and Mandaue. With a strong foundation in both
+          frontend and backend development, I enjoy building responsive,
+          user-friendly, and scalable web applications.
         </p>
       </div>
     </div>
