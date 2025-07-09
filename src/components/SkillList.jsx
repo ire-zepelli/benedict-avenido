@@ -9,7 +9,7 @@ export default function SkillList() {
         <h3 className="text-l font-semibold text-gray-600">
           Frontend Development
         </h3>
-        <div className="flex items-start gap-1">
+        <div className="flex flex-wrap items-start gap-1">
           <Badge text="Typescript" />
           <Badge text="React" />
           <Badge text="NextJS" />
@@ -21,7 +21,7 @@ export default function SkillList() {
         <h3 className="text-l font-semibold text-gray-600">
           Backend Development
         </h3>
-        <div className="flex items-start gap-1">
+        <div className="flex flex-wrap items-start gap-1">
           <Badge text="Express" />
           <Badge text="PHP" />
           <Badge text="NodeJS" />
@@ -35,7 +35,7 @@ export default function SkillList() {
 
       <div className="flex flex-col gap-2">
         <h3 className="text-l font-semibold text-gray-600">Other Languages</h3>
-        <div className="flex items-start gap-1">
+        <div className="flex flex-wrap items-start gap-1">
           <Badge text="C" />
           <Badge text="C++" />
           <Badge text="Java" />
