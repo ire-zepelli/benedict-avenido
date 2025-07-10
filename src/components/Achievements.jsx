@@ -29,6 +29,12 @@ export default function Achievements() {
         date={"Feb 2025"}
       />
       <InfoCard
+        logo={logo}
+        title={"UCLM Intramurals: Computer Quiz Bowl"}
+        subtitle={"Champion"}
+        date={"Nov 2024"}
+      />
+      <InfoCard
         logo={
           "https://scontent.fceb6-1.fna.fbcdn.net/v/t39.30808-6/279486570_404919568307852_7716863524961354660_n.png?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF5wjksAj9BX1vBqb9y7ZIDfCTe7E7Ofkh8JN7sTs5-SD_zRqxzCGIkxqpDnHW9IAzSyp_lnZ4TvhYSIhdzbJOl&_nc_ohc=b7rPKjoLSYQQ7kNvwGsc9ic&_nc_oc=AdlLfvYPhwaaWGHmFu8bYoDC5qewxkjiWMTZWSNy87g7r7fxZv6-cBbv924yUQoy3tQZ_kSR981hF71mB5Sqgz0-&_nc_zt=23&_nc_ht=scontent.fceb6-1.fna&_nc_gid=a06qurbZEbiZKkPxeIVesg&oh=00_AfSttYXGMriN7-WhaevhL1w4qnhpB56IXSLd3h4vTAV0Lg&oe=6873B92C"
         }
