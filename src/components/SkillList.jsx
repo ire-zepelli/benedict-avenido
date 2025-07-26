@@ -8,7 +8,7 @@ export default function SkillList() {
       <h2 className="text-2xl font-semibold">Skills</h2>
       <Field
         title={"Frontend Development"}
-        badges={["Typescript", "React", "NextJS", "TailwindCSS"]}
+        badges={["Typescript", "React", "NextJS", "TailwindCSS, Redux"]}
       />
       <Field
         title={"Backend Development"}
